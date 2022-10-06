@@ -18,10 +18,9 @@ Forecasting System - Project Demand of Products at a Retail Outlet Based on Hist
 3. Get familiar with industry type projects.
 
 #### Software Requirements to Implement the Project:
-1. Google Collab
-2. Jupyter Notebook
-3. Python
-4. Windows O.S. (opt)
+1. Jupyter Notebook
+2. Python
+3. Windows O.S. (opt)
 
 #### Dataset  Sources used here :
 1. https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls
